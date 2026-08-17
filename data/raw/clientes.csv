@@ -1,0 +1,21 @@
+cliente_id,nome,email,cidade,estado,data_cadastro
+1,João Silva,joao@email.com,São Paulo,SP,2025-01-10
+2,Maria Santos,maria@email.com,Rio de Janeiro,RJ,2025-01-15
+3,Carlos Oliveira,carlos@email.com,Belo Horizonte,MG,2025-02-01
+4,Ana Souza,ana@email.com,Curitiba,PR,2025-02-10
+5,Pedro Lima,pedro@email.com,Porto Alegre,RS,2025-02-15
+6,Juliana Costa,juliana@email.com,Salvador,BA,2025-02-20
+7,Lucas Almeida,lucas@email.com,Recife,PE,2025-03-01
+8,Fernanda Rocha,fernanda@email.com,São Paulo,sp,2025-03-05
+9,Rafael Martins,RAFAEL@EMAIL.COM,Santos,SP,2025-03-10
+10,Beatriz Gomes,beatriz@email.com,Campinas,SP,2025-03-15
+11,Marcos Ribeiro,marcos@email.com,Guarulhos,SP,2025-03-20
+12,Carolina Mendes,carolina@email.com,Niterói,RJ,2025-03-25
+13,André Ferreira,andre@email.com,Brasília,DF,2025-04-01
+14,Patrícia Alves,patricia@email.com,Fortaleza,CE,2025-04-05
+15,Gustavo Barbosa,gustavo@email.com,Recife,PE,2025-04-10
+16,Renata Cardoso,renata@email.com,Curitiba,PR,2025-04-15
+17,Diego Castro,diego@email.com,São Paulo,SP,2025-04-20
+18,Juliana Costa,juliana@email.com,Salvador,BA,2025-04-25
+19,Bruno Teixeira,bruno@email.com,Osasco,SP,2025-05-01
+20,Mariana Lopes,,Campinas,SP,2025-05-05
