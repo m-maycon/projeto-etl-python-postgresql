@@ -1,0 +1,16 @@
+produto_id,nome,categoria,preco,estoque
+1,Notebook Pro,Eletrônicos,4500.0,20
+2,Mouse Wireless,Periféricos,120.0,150
+3,Teclado Mecânico,Periféricos,350.0,80
+4,Monitor 24,Monitores,900.0,45
+5,Headset Gamer,Acessórios,280.0,60
+6,Cadeira Gamer,Móveis,1200.0,25
+7,Webcam Full HD,Acessórios,250.0,70
+8,SSD 1TB,Armazenamento,550.0,40
+9,Memória RAM 16GB,Componentes,380.0,90
+10,Placa de Vídeo RTX,Componentes,3200.0,15
+11,Notebook Basic,Eletrônicos,2800.0,30
+12,Mouse Pad,Periféricos,80.0,200
+13,Microfone USB,Acessórios,450.0,35
+14,Hub USB,Periféricos,150.0,100
+15,HD Externo 2TB,Armazenamento,480.0,50
