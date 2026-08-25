@@ -8,6 +8,7 @@ from validate import (
     validate_datetime,
 )
 from transform import transform_clientes, transform_pedidos, save_processed_csv
+from load import create_connection
 
 def main():
     clientes = extract_csv("data/raw/clientes.csv")
@@ -81,5 +82,12 @@ def main():
     save_processed_csv(pedidos,"data/processed/pedidos.csv")
 
     save_processed_csv(itens_processados,"data/processed/itens_pedido.csv")
+
+    conn = create_connection()
+
+    print("Conexão com PostgreSQL realizada com sucesso!")
+
+    conn.close()
+
 if __name__ == "__main__":
     main()
