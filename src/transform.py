@@ -19,8 +19,14 @@ def transform_pedidos(df):
 
     return df
 
-def save_processed_csv(df, file_path):
+def transform_itens_pedido(df):
     """
-    Salva um DataFrame como CSV no diretório de dados processados.
+    Realiza as transformações dos itens dos pedidos.
     """
-    df.to_csv(file_path, index=False)
+
+    df = df.copy()
+
+    df["quantidade"] = df["quantidade"].astype(int)
+    df["preco_unitario"] = df["preco_unitario"].astype(float)
+
+    return df

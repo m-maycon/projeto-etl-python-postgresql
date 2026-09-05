@@ -119,6 +119,9 @@ def main():
     precos_invalidos = itens[itens["preco_unitario"] < 0]
 
     print(precos_invalidos)
+
+
+    print(pedidos["data_pedido"].dtype)
 if __name__ == "__main__":
     main()
 # %%
